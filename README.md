@@ -38,7 +38,7 @@ MONGO_URI=mongodb://localhost:27017/blogDb
 
 5) Start the application:
 
-    npm run dev
+    npx nodemon server.js  or node server,js
 
     The application will be running at http://localhost:5000.
 
